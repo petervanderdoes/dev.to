@@ -2,7 +2,7 @@
 published: true
 title: 'Django + memcached + namespace'
 cover_image: 'https://raw.githubusercontent.com/petervanderdoes/dev.to/main/blog-posts/0001-django+memcached+namespace/assets/cover.png'
-description: 'Simulate namespace in memcached to allow for deletion of multiple mecached entries'
+description: 'Simulate namespace in memcached to allow for deletion of multiple memcached entries'
 tags: Python, Django, memcached
 series:
 canonical_url:
